@@ -41,12 +41,12 @@ A curated list of publication for depth estimation
 
 [3] Godard et al, Digging Into Self-Supervised Monocular Depth Estimation, aXiv 2018, [PDF](https://arxiv.org/abs/1711.07933)
 
-[4] Im et al, Robust Depth Estimation from Auto Bracketed Images, CVPR 2018, [PDFhttps://arxiv.org/abs/1803.07702](https://arxiv.org/abs/1803.07702)
+[4] Im et al, Robust Depth Estimation from Auto Bracketed Images, CVPR 2018, [PDF](https://arxiv.org/abs/1803.07702)
 
 ### 4.2 Video
 [1] Zhou et al, Unsupervised Learning of Depth and Ego-Motion from Video, CVPR 2017, [Web](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
 
-[2] Yin et al, GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose, CVPR 2018,[Code][https://github.com/yzcjtr/GeoNet]
+[2] Yin et al, GeoNet: Unsupervised Learning of Dense Depth, Optical Flow and Camera Pose, CVPR 2018,[Code](https://github.com/yzcjtr/GeoNet)
 
 [3] Wang et al, Learning Depth from Monocular Videos using Direct Methods, CVPR 2018, [Code](https://github.com/MightyChaos/LKVOLearner)
 
