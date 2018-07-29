@@ -1,6 +1,6 @@
 # awesome-depth
 A curated list of publication for depth estimation
-
+s
 ## 1. Supervised Methods
 [1] Eigen et al, Depth Map Prediction from a Single Image using a Multi-Scale Deep Network, NIPS 2014, [Web](https://cs.nyu.edu/~deigen/depth/)
 
