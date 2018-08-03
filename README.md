@@ -73,4 +73,11 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
 
 ## 7. Optical Flow & Scene Flow
 
-[1] Dosovitskiy et al, FlowNet: Learning optical flow with convolutional networks
+[1] Dosovitskiy et al, FlowNet: Learning optical flow with convolutional networks, CVPR 2015, [PDF](https://www.cv-foundation.org/openaccess/content_iccv_2015/papers/Dosovitskiy_FlowNet_Learning_Optical_ICCV_2015_paper.pdf)
+[2] Yu et al, Back to basics: Unsupervised learning of optical flow via brightness constancy and motion smoothness, ECCV 2016 Workshop, [PDF](https://arxiv.org/pdf/1608.05842v1.pdf)
+[3] Bailer et al, CNN-based Patch Matching for Optical Flow with Thresholded Hinge Embedding Loss, CVPR 2017, [PDF](http://arxiv.org/abs/1607.08064)
+[4] Ranjan et al, Optical Flow Estimation using a Spatial Pyramid Network(SpyNet), CVPR 2017, [Code](https://github.com/anuragranj/spynet)
+[5] Ilg et al, FlowNet 2.0: Evolution of Optical Flow Estimation with Deep Networks, CVPR 2017, [Code](https://github.com/lmb-freiburg/flownet2)
+[6] Sun et al, PWC-Net: CNNs for Optical Flow Using Pyramid, Warping, and Cost Volume, CVPR 2018, [Code](https://github.com/NVlabs/PWC-Net)
+[7] Wang et al, Occlusion Aware Unsupervised Learning of Optical Flow, CVPR 2018, [PDF](http://arxiv.org/abs/1711.05890)
+[6] Hui et al, LiteFlowNet: A Lightweight Convolutional Neural Network for Optical Flow Estimation, CVPR 2018, [PDF](http://openaccess.thecvf.com/content_cvpr_2018/papers/Hui_LiteFlowNet_A_Lightweight_CVPR_2018_paper.pdf)
