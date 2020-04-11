@@ -26,7 +26,7 @@ A curated list of publication for depth estimation
 
 [11] Jiao et al, Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss, ECCV 2018, [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jianbo_Jiao_Look_Deeper_into_ECCV_2018_paper.pdf)
 
-[10] Lee et al, Monocular depth estimation using relative depth maps. CVPR 2019, [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Monocular_Depth_Estimation_Using_Relative_Depth_Maps_CVPR_2019_paper.pdf)[Code](https://github.com/jaehanlee-mcl/monocular-depth-estimation-using-relative-depth-maps)
+[10] Lee et al, Monocular depth estimation using relative depth maps. CVPR 2019, [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Monocular_Depth_Estimation_Using_Relative_Depth_Maps_CVPR_2019_paper.pdf)  [Code](https://github.com/jaehanlee-mcl/monocular-depth-estimation-using-relative-depth-maps)
 
 ## 2. Monocular Depth (Semi- / Un-Supervised)
 
@@ -72,7 +72,7 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
 
 [4] Chen et al, Learning Joint 2D-3D Representations for Depth Completion, ICCV 2019, [PDF](http://openaccess.thecvf.com/content_ICCV_2019/papers/Chen_Learning_Joint_2D-3D_Representations_for_Depth_Completion_ICCV_2019_paper.pdf)
 
-[5] Tang et al, Learning Guided Convolutional Network for Depth Completion, arXiv 2019, [PDF](https://arxiv.org/pdf/1908.01238.pdf)[Code](https://github.com/kakaxi314/GuideNet)
+[5] Tang et al, Learning Guided Convolutional Network for Depth Completion, arXiv 2019, [PDF](https://arxiv.org/pdf/1908.01238.pdf)  [Code](https://github.com/kakaxi314/GuideNet)
 
 ## 4. Depth Fusion
 
@@ -99,7 +99,7 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
 
 [1] Zhou et al, Stereo Magnification: Learning view synthesis using multiplane images, SIGGRAPH 2018, [Web](https://people.eecs.berkeley.edu/~tinghuiz/projects/mpi/)
 
-[2] Niklaus et al, 3D Ken Burns Effect from a Single Image, SIGGRAPH 2019, [PDF](https://arxiv.org/pdf/1909.05483.pdf)[Code](https://github.com/sniklaus/3d-ken-burns)
+[2] Niklaus et al, 3D Ken Burns Effect from a Single Image, SIGGRAPH 2019, [PDF](https://arxiv.org/pdf/1909.05483.pdf) [Code](https://github.com/sniklaus/3d-ken-burns)
 
 [3] Wiles et al, SynSin: End-to-end View Synthesis from a Single Image, CVPR 2020, [Web](http://www.robots.ox.ac.uk/~ow/synsin.html)
 
