@@ -2,6 +2,13 @@
 
 A curated list of publication for depth estimation
 
+## 0. Survey 
+[1] How do neural networks see depth in single images? [paper](https://arxiv.org/pdf/1905.07005.pdf)
+
+[2] monocluar depth estimation: A survey [paper](https://arxiv.org/pdf/1901.09402.pdf)
+
+[3] Monocular Depth Estimation Based On Deep Learning: An Overview [paper](https://arxiv.org/pdf/2003.06620.pdf)
+
 ## 1. Monocular Depth (Fully Supervised)
 
 [1] Eigen et al, Depth Map Prediction from a Single Image using a Multi-Scale Deep Network, NIPS 2014, [Web](https://cs.nyu.edu/~deigen/depth/)
@@ -21,12 +28,22 @@ A curated list of publication for depth estimation
 [8] Qi et al, GeoNet: Geometric Neural Network for Joint Depth and Surface Normal Estimation, CVPR 2018, [PDF](https://xjqi.github.io/geonet.pdf)
 
 [9] Fu et al, Deep Ordinal Regression Network for Monocular Depth Estimation, CVPR 2018, [PDF](https://arxiv.org/abs/1806.02446)
+(Learning Ordinal Relationships for Mid-Level Vision. ECCV 2015)
 
 [10] Zhang et al, Joint Task-Recursive Learning for Semantic Segmentation and Depth Estimation, ECCV 2018, [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Zhenyu_Zhang_Joint_Task-Recursive_Learning_ECCV_2018_paper.pdf)
 
 [11] Jiao et al, Look Deeper into Depth: Monocular Depth Estimation with Semantic Booster and Attention-Driven Loss, ECCV 2018, [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Jianbo_Jiao_Look_Deeper_into_ECCV_2018_paper.pdf)
 
-[10] Lee et al, Monocular depth estimation using relative depth maps. CVPR 2019, [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Monocular_Depth_Estimation_Using_Relative_Depth_Maps_CVPR_2019_paper.pdf)  [Code](https://github.com/jaehanlee-mcl/monocular-depth-estimation-using-relative-depth-maps)
+[12] Depth Esimation via Affinity Learning with Convolutional Spatial Propagation Network, ECCV, 2018, [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinjing_Cheng_Depth_Estimation_via_ECCV_2018_paper.pdf) [Code](https://github.com/XinJCheng/CSPN)
+
+[13] Lee et al, Monocular depth estimation using relative depth maps. CVPR 2019, [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Monocular_Depth_Estimation_Using_Relative_Depth_Maps_CVPR_2019_paper.pdf)  [Code](https://github.com/jaehanlee-mcl/monocular-depth-estimation-using-relative-depth-maps)
+
+[14] From Big to Small: Multi-Scale Local Planar Guidance for Monocular Depth Estimation, arxiv, [Paper](https://arxiv.org/pdf/1907.10326.pdf) [Code](https://github.com/cogaplex-bts/bts)
+
+[15] Pattern-Affinitive Propagation across Depth, Surface Normal and Semantic Segmentation, cvpr, 2019, [Paper](https://arxiv.org/pdf/1906.03525v1.pdf)
+
+[16] Exploiting temporal consistency for real-time video depth estimation, [Paper](https://arxiv.org/pdf/1908.03706.pdf) [Code](https://github.com/hkzhang91/ST-CLSTM)
+
 
 ## 2. Monocular Depth (Semi- / Un-Supervised)
 
@@ -42,7 +59,9 @@ A curated list of publication for depth estimation
 
 [5] Godard et al, Digging Into Self-Supervised Monocular Depth Estimation, aXiv 2018, [PDF](https://arxiv.org/abs/1711.07933)
 
+[6] Bridging Stereo Matching and Optical Flow via Spatio temporal, CVPR, 2019, [Paper](https://arxiv.org/pdf/1905.09265.pdf) [Code](https://github.com/lelimite4444/)
 
+[7] BridgeDepthFlow Learning monocular depth estimation infusing traditional stereo knowledge, CVPR, 2019, [Paper](https://arxiv.org/pdf/1904.04144.pdf) [Code](https://github.com/fabiotosi92/monoResMatch-Tensorflow)
 
 ### 2.2 Multi View
 
@@ -62,6 +81,10 @@ Using 3D Geometric Constraints, CVPR 2018, [PDF](https://arxiv.org/abs/1802.0552
 [7] Zhan et al, Unsupervised Learning of Monocular Depth Estimation and Visual Odometry
 with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-Zhan/Depth-VO-Feat)
 
+[8] Competitive Collaboration: Joint Unsupervised Learning of Depth, Camera Motion, Optical Flow and Motion Segmentation, CVPR, 2019, [Paper](https://arxiv.org/pdf/1805.09806.pdf) [Code](https://github.com/anuragranj/cc)
+
+[9] Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video, NIPS, 2019, [Paper](https://arxiv.org/pdf/1908.10553.pdf) [Code](https://github.com/JiawangBian/SC-SfMLearner-Release)
+ 
 ## 3. Depth Completion/Super-resolution
 
 [1] Cheng et al, Learning Depth with Convolutional Spatial Propagation Network, arXiv 2018, [PDF](https://arxiv.org/pdf/1810.02695.pdf) [Code](https://github.com/XinJCheng/CSPN)
