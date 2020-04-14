@@ -35,13 +35,13 @@ A curated list of publication for depth estimation
 
 [12] Cheng et al, Depth Esimation via Affinity Learning with Convolutional Spatial Propagation Network, ECCV, 2018, [PDF](http://openaccess.thecvf.com/content_ECCV_2018/papers/Xinjing_Cheng_Depth_Estimation_via_ECCV_2018_paper.pdf), [Code](https://github.com/XinJCheng/CSPN)
 
-[13] Lee et al, Monocular depth estimation using relative depth maps. CVPR 2019, [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Monocular_Depth_Estimation_Using_Relative_Depth_Maps_CVPR_2019_paper.pdf)  [Code](https://github.com/jaehanlee-mcl/monocular-depth-estimation-using-relative-depth-maps)
+[13] Lee et al, Monocular depth estimation using relative depth maps. CVPR 2019, [PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Lee_Monocular_Depth_Estimation_Using_Relative_Depth_Maps_CVPR_2019_paper.pdf),  [Code](https://github.com/jaehanlee-mcl/monocular-depth-estimation-using-relative-depth-maps)
 
-[14] Lee et al, From Big to Small: Multi-Scale Local Planar Guidance for Monocular Depth Estimation, arxiv, [PDF](https://arxiv.org/pdf/1907.10326.pdf), [Code](https://github.com/cogaplex-bts/bts)
+[14] Lee et al, From Big to Small: Multi-Scale Local Planar Guidance for Monocular Depth Estimation, Arxiv, [PDF](https://arxiv.org/pdf/1907.10326.pdf), [Code](https://github.com/cogaplex-bts/bts)
 
-[15] Zhang et al, Pattern-Affinitive Propagation across Depth, Surface Normal and Semantic Segmentation, cvpr, 2019, [PDF](https://arxiv.org/pdf/1906.03525v1.pdf)
+[15] Zhang et al, Pattern-Affinitive Propagation across Depth, Surface Normal and Semantic Segmentation, CVPR, 2019, [PDF](https://arxiv.org/pdf/1906.03525v1.pdf)
 
-[16] Zhang et al, Exploiting temporal consistency for real-time video depth estimation, [PDF](https://arxiv.org/pdf/1908.03706.pdf) [Code](https://github.com/hkzhang91/ST-CLSTM)
+[16] Zhang et al, Exploiting temporal consistency for real-time video depth estimation, ICCV, 2019, [PDF](https://arxiv.org/pdf/1908.03706.pdf), [Code](https://github.com/hkzhang91/ST-CLSTM)
 
 
 ## 2. Monocular Depth (Semi- / Un-Supervised)
