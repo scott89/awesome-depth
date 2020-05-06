@@ -91,6 +91,8 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
  
 [10] Luo et al, Consistent Video Depth Estimation, SIGGRAPH 2020, [Web](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
 
+[11] Teed et al, DEEPV2D: VIDEO TO DEPTH WITH DIFFERENTIABLE STRUCTURE FROM MOTION, ICLR 2020, [PDF](https://openreview.net/pdf?id=HJeO7RNKPr) [Code](https://github.com/princeton-vl/DeepV2D)
+
 ## 3. Depth Completion/Super-resolution
 
 [1] Cheng et al, Learning Depth with Convolutional Spatial Propagation Network, arXiv 2018, [PDF](https://arxiv.org/pdf/1810.02695.pdf), [Code](https://github.com/XinJCheng/CSPN)
