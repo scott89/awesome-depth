@@ -62,6 +62,11 @@ A curated list of publication for depth estimation
 
 [7] Tosi et al, Learning monocular depth estimation infusing traditional stereo knowledge, CVPR 2019, [PDF](https://arxiv.org/pdf/1904.04144.pdf) [Code](https://github.com/fabiotosi92/monoResMatch-Tensorflow)
 
+[8] Garg et al, Learning Single Camera Depth Estimation using Dual-Pixels, ICCV 2019, [PDF](https://arxiv.org/pdf/1904.05822.pdf) [Code](https://github.com/google-research/google-research/tree/master/dual_pixels)
+
+[9] Zhang et al, Du2Net: Learning Depth Estimation from Dual-Cameras and Dual-Pixels, arXiv 2020, [PDF](https://arxiv.org/pdf/2003.14299.pdf)
+
+
 ### 2.2 Multi View
 
 [1] Zhou et al, Unsupervised Learning of Depth and Ego-Motion from Video, CVPR 2017, [Web](https://people.eecs.berkeley.edu/~tinghuiz/projects/SfMLearner/)
@@ -84,6 +89,8 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
 
 [9] Bian et al, Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video, NIPS 2019, [PDF](https://arxiv.org/pdf/1908.10553.pdf), [Code](https://github.com/JiawangBian/SC-SfMLearner-Release)
  
+[10] Luo et al, Consistent Video Depth Estimation, SIGGRAPH 2020, [Web](https://roxanneluo.github.io/Consistent-Video-Depth-Estimation/)
+
 ## 3. Depth Completion/Super-resolution
 
 [1] Cheng et al, Learning Depth with Convolutional Spatial Propagation Network, arXiv 2018, [PDF](https://arxiv.org/pdf/1810.02695.pdf), [Code](https://github.com/XinJCheng/CSPN)
@@ -130,6 +137,8 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
 [3] Wiles et al, SynSin: End-to-end View Synthesis from a Single Image, CVPR 2020, [Web](http://www.robots.ox.ac.uk/~ow/synsin.html)
 
 [4] Shih et al, 3D Photography using Context-aware Layered Depth Inpainting, CVPR 2020, [Web](https://shihmengli.github.io/3D-Photo-Inpainting/)
+
+[5] Mildenhall et al, Representing Scenes as Neural Radiance Fields for View Synthesis, arXiv 2020, [Web](http://www.matthewtancik.com/nerf)
 
 ## 7. RGB-D Application
 
