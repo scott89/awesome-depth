@@ -140,6 +140,10 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
 
 [5] Mildenhall et al, Representing Scenes as Neural Radiance Fields for View Synthesis, arXiv 2020, [Web](http://www.matthewtancik.com/nerf)
 
+[6] Chen et al, Monocular Neural Image Based Rendering with Continuous View Control, ICCV 2019, [Web](https://ait.ethz.ch/projects/2019/cont-view-synth/)
+
+[7] Chen et al, Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction, AAAI 2018, [PDF](https://arxiv.org/pdf/1706.07036.pdf)
+
 ## 7. RGB-D Application
 
 ## 8. Optical Flow & Scene Flow
