@@ -93,6 +93,8 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
 
 [11] Teed et al, DEEPV2D: VIDEO TO DEPTH WITH DIFFERENTIABLE STRUCTURE FROM MOTION, ICLR 2020, [PDF](https://openreview.net/pdf?id=HJeO7RNKPr) [Code](https://github.com/princeton-vl/DeepV2D)
 
+[12] Guizilini et al, 3D Packing for Self-Supervised Monocular Depth Estimation, CVPR 2020, [PDF](https://arxiv.org/pdf/1905.02693.pdf) [Code](https://github.com/TRI-ML/packnet-sfm)
+
 ## 3. Depth Completion/Super-resolution
 
 [1] Cheng et al, Learning Depth with Convolutional Spatial Propagation Network, arXiv 2018, [PDF](https://arxiv.org/pdf/1810.02695.pdf), [Code](https://github.com/XinJCheng/CSPN)
