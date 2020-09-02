@@ -148,6 +148,8 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
 
 [7] Chen et al, Learning Efficient Point Cloud Generation for Dense 3D Object Reconstruction, AAAI 2018, [PDF](https://arxiv.org/pdf/1706.07036.pdf)
 
+[8] Kopf et al, One Shot 3D Photography, SIGGRAPH 2020 [PDF](https://arxiv.org/pdf/2008.12298.pdf) [Web](https://facebookresearch.github.io/one_shot_3d_photography/)
+
 ## 7. RGB-D Application
 
 ## 8. Optical Flow & Scene Flow
