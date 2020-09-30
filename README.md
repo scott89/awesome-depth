@@ -95,6 +95,10 @@ with Deep Feature Reconstruction, CVPR 2018, [Web](https://github.com/Huangying-
 
 [12] Guizilini et al, 3D Packing for Self-Supervised Monocular Depth Estimation, CVPR 2020, [PDF](https://arxiv.org/pdf/1905.02693.pdf) [Code](https://github.com/TRI-ML/packnet-sfm)
 
+[13] Zhao et al, Towards Better Generalization: Joint Depth-Pose Learning without PoseNet, CVPR 2020 [PDF](https://arxiv.org/abs/2004.01314) [Code](https://github.com/B1ueber2y/TrianFlow)
+
+[14] Bian et al, Unsupervised Scale-consistent Depth and Ego-motion Learning from Monocular Video, NeurIPs 2019 [PDF](https://arxiv.org/abs/1908.10553) [Code](https://github.com/JiawangBian/SC-SfMLearner-Release)
+
 ## 3. Depth Completion/Super-resolution
 
 [1] Cheng et al, Learning Depth with Convolutional Spatial Propagation Network, arXiv 2018, [PDF](https://arxiv.org/pdf/1810.02695.pdf), [Code](https://github.com/XinJCheng/CSPN)
